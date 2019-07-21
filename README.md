@@ -7,4 +7,4 @@
 ## Mission to Mars
 ### Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page by using Python Flask and Beautiful Soup applications, Mongo database, and HTML
 
-### Visit: [BCBaucom.github.io](https://BCBaucom.github.io/Mission-To-Mars/templates/index.html)
+### Visit: [BCBaucom.github.io](https://github.com/BCBaucom/Mission-To-Mars/blob/master/templates/index.html)
