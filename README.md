@@ -12,4 +12,4 @@
 ## D3 - Dynamic Data Driven Charts
 ### Use of additional labels in ascatter plot and give the labels click events so that users can decide which data to display. Work inclused the animation of the transitions for data circles' locations as well as the range of the axes.
 
-### Visit: [16-Data-Journalism-and-D3/StarterCode/index.html](https://github.com/BCBaucom/16-Data-Journalism-and-D3/blob/master/StarterCode/index.html)
+### Visit: [16-Data-Journalism-and-D3/StarterCode/index.html](https://BCBaucom.github.io/16-Data-Journalism-and-D3/blob/master/StarterCode/index.html)
